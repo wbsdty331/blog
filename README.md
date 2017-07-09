@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Beyond Compare 4.x 授权文件
 
-You can use the [editor on GitHub](https://github.com/wbsdty331/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+复制下面的所有内容到剪贴板，并粘贴到 Windows 记事本，保存为 BC4Key.txt。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+保存时文件类型更改为“所有文件”，否则保存后的文件类型始终为文本文档，即 TXT。
 
-### Markdown
+保存完成后，将文件拖入 Beyond Compare 安装目录，打开软件即可。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Beyond Compare 4
+Licensed to:    Dr.Thril/ZWT
+Quantity:       1 user
+Serial number:  1822-9597
+License type:   Pro Edition for Windows
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wbsdty331/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+--- BEGIN LICENSE KEY ---
+H1bJTd2SauPv5Garuaq0Ig43uqq5NJOEw94wxdZTpU-pFB9GmyPk677gJ
+vC1Ro6sbAvKR4pVwtxdCfuoZDb6hJ5bVQKqlfihJfSYZt-xVrVU27+0Ja
+hFbqTmYskatMTgPyjvv99CF2Te8ec+Ys2SPxyZAF0YwOCNOWmsyqN5y9t
+q2Kw2pjoiDs5gIH-uw5U49JzOB6otS7kThBJE-H9A76u4uUvR8DKb+VcB
+rWu5qSJGEnbsXNfJdq5L2D8QgRdV-sXHp2A-7j1X2n4WIISvU1V9koIyS
+NisHFBTcWJS0sC5BTFwrtfLEE9lEwz2bxHQpWJiu12ZeKpi+7oUSqebX+
+--- END LICENSE KEY -----
+```
